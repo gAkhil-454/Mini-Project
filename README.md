@@ -1,0 +1,1 @@
+Face recognition based door lock system with Gmail notification. Additionally, introduced a user-friendly feature enabling the owner to grant access to new individuals seamlessly via the Blynk IoT application, enhancing the system's accessibility and control.
